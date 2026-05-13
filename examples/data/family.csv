@@ -1,0 +1,21 @@
+Name     , Father , Mother
+Avraham  ,        ,
+Sarah    ,        ,
+Isaac    , Avraham, Sarah
+Jacob    ,  Isaac, Rebekah
+Esau     ,  Isaac, Rebekah
+Rachel   ,       ,
+Bilhah   ,       ,
+Reuben   ,  Jacob, Leah
+Simeon   ,  Jacob, Leah
+Levi     ,  Jacob, Leah
+Judah    ,  Jacob, Leah
+Dan      ,  Jacob, Bilhah
+Naphtali ,  Jacob, Bilhah
+Gad      ,  Jacob, Zilpah
+Asher    ,  Jacob, Zilpah
+Issachar ,  Jacob, Leah
+Zebulun  ,  Jacob, Leah
+Dinah    ,  Jacob, Leah
+Joseph   ,  Jacob, Rachel
+Benjamin ,  Jacob, Rachel
