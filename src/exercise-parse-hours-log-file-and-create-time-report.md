@@ -6,9 +6,7 @@
 When I was running class-room Perl training courses I've was logging how my course progresses and created
 log files like this:
 
-```ruby
-{{#include examples/data/timelog.log }}
-```
+{% embed include file="examples/data/timelog.log" %}
 
 Every row starts with the timestamp when the specific activity started and then the name of the activity.
 Empty rows separate the dates.

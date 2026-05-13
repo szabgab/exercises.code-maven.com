@@ -10,9 +10,7 @@ to get around. Just words separated by a space.
 
 A small input file might look like this:
 
-```ruby
-{{#include examples/data/text.txt }}
-```
+{% embed include file="examples/data/text.txt" %}
 
 ## Tools
 

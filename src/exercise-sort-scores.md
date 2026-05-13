@@ -5,9 +5,7 @@
 
 In this exercise you a file with scores. Each line has a name and a number (a score) separated by a comma.
 
-```ruby
-{{#include examples/data/score_data.txt }}
-```
+{% embed include file="examples/data/score_data.txt" %}
 
 The first task is to read in the file and print out the names with their scores ordered by name
 givin the following result:

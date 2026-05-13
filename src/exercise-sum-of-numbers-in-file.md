@@ -8,9 +8,7 @@ Each line is a number.
 Our aim is to add the numbers and print the result.
 
 
-```ruby
-{{#include examples/data/numbers.txt }}
-```
+{% embed include file="examples/data/numbers.txt" %}
 
 Expected result is 126.
 

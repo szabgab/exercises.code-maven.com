@@ -5,9 +5,7 @@
 
 An INI or Config file looks like this:
 
-```ruby
-{{#include examples/data/inifile.ini }}
-```
+{% embed include file="examples/data/inifile.ini" %}
 
 It has sections that start with a section name in square brackets and inside section it has key-value pairs separated by an equal sign surrounded
 by 0 or more spaces. Empty rows are disregarded. Any line starting with a `#` is considered a comment and is also disregarded.
@@ -21,7 +19,7 @@ where the primary key is the section name, the secondary key is the 'key' and th
 
 The Perl dump of the above INI file would look like this:
 
-```
+```perl
 $VAR1 = {
           'earth' => {
                        'base' => 'London',

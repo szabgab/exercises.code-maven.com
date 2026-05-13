@@ -8,10 +8,7 @@ If they are equal then comparing the second number, etc...
 Actually the format is called [ASN 1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One).
 
 
-
-```ruby
-{{#include examples/data/snmp.txt }}
-```
+{% embed include file="examples/data/snmp.txt" %}
 
 <slidecast file="beginner-perl/exercise-sort-snmp-numbers" youtube="CF92m6Y8CGQ" />
 

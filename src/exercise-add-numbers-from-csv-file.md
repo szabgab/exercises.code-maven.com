@@ -3,9 +3,7 @@
 
 Given a CSV file like this:
 
-```ruby
-{{#include examples/data/process_csv_file.csv }}
-```
+{% embed include file="examples/data/process_csv_file.csv" %}
 
 Write a script that will take the values of the 3rd in this Comma Separated Values file
 and add them together.
@@ -13,9 +11,7 @@ and add them together.
 
 Can your code also handle this file?
 
-```ruby
-{{#include examples/data/distance.csv }}
-```
+{% embed include file="examples/data/distance.csv" %}
 
 ## Tools
 

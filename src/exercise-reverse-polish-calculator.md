@@ -28,9 +28,7 @@ The task is to implement RPN in your favorite language.
 
 In order to make it easer for you I've prepared a module that implements the low-level calculations.
 
-```ruby
-{{#include examples/python/calc.py }}
-```
+{% embed include file="examples/python/calc.py" %}
 
 
 ## Solutions

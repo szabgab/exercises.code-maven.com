@@ -7,9 +7,7 @@ Exercise: count digits in a file
 Given a file like this, that has rows of numbers in it without anything, but a single space in between the numbers.
 Our task is to count how many times each digit appears.
 
-```ruby
-{{#include examples/data/count_digits.txt }}
-```
+{% embed include file="examples/data/count_digits.txt" %}
 
 Our expected output looks like this:
 
@@ -28,7 +26,8 @@ Our expected output looks like this:
 
 
 ## Tools for Perl 5
-* <a href-"https://perlmaven.com/perl-tutorial">The Perl 5 tutorial</a> in general.</a>
+
+* [The Perl 5 tutorial](https://perlmaven.com/perl-tutorial) in general.
 * [Perl 5: shift from @ARGV](https://perlmaven.com/beginner-perl-maven-shift)
 * [Perl 5: open a file for reading or die](https://perlmaven.com/beginner-perl-maven-open-or-die).
 * [Perl 5: Arrays](https://perlmaven.com/perl-arrays)

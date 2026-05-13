@@ -12,12 +12,9 @@ of digits. The number of digits depend on the leading character.
 In this exercise we need to split up the data to commands and count how many times
 each command type was given.
 
-```ruby
-{{#include examples/data/variable_width_fields.log }}
-```
+{% embed include file="examples/data/variable_width_fields.log" %}
 
 ## Tools
-* 
 
 ## Solutions
 * [Perl 5: parse variablew width fields](https://perlmaven.com/beginner-perl-maven-solution-parse-variable-width-fields)

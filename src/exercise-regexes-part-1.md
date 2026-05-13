@@ -27,14 +27,12 @@ You can use the script at the end of the page as a starting point but you will h
 * Bonus: has a double character (e.g. 'oo')
 
 ## Ruby
-```ruby
-{{#include examples/ruby/regex_exercise_1.rb }}
-```
+
+{% embed include file="examples/ruby/regex_exercise_1.rb" %}
 
 ## Python
-```ruby
-{{#include examples/python/regex_exercise_1.py }}
-```
+
+{% embed include file="examples/python/regex_exercise_1.py" %}
 
 
 ## Perl
