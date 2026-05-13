@@ -6,9 +6,9 @@ title = "Code Maven exercises"
 
 # Add github icon to the menu
 [output.html]
-git-repository-url = "https://github.com/szabgab/falkordb.code-maven.com"
+git-repository-url = "https://github.com/szabgab/exercises.code-maven.com"
 git-repository-icon = "fas-code-fork"
-edit-url-template = "https://github.com/szabgab/falkordb.code-maven.com/edit/main/{path}"
+edit-url-template = "https://github.com/szabgab/exercises.code-maven.com/edit/main/{path}"
 additional-js = ["custom.js", "addlinks.js"]
 
 [output.markdown]
