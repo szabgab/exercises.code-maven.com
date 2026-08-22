@@ -44,6 +44,10 @@
   - [Recursive Factorial Solution](./solution-factorial.md)
   - [Recursive Fibonacci](./exercise-fibonacci.md)
   - [Recursive Fibonacci Solution](./solution-fibonacci.md)
+  - [Recursive Count Expressions Reaching a Target Sum](./exercise-count-target-expression.md)
+  - [Recursive Count Expressions Reaching a Target Sum - Solution](./solution-count-target-expression.md)
+  - [Recursive sort a list](./exercise-sort-a-list.md)
+  - [Recursive sort a list - solution](./solution-sort-a-list.md)
 
 # Regular Expressions, Regexes
   - [Regexes part 1](./exercise-regexes-part-1.md)
