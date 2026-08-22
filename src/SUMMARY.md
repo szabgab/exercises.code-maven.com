@@ -39,6 +39,12 @@
 # Functions and Subroutines
   - [ROT13](./exercise-rot13.md)
 
+# Recursive functions
+  - [Recursive Factorial](./exercise-factorial.md)
+  - [Recursive Factorial Solution](./solution-factorial.md)
+  - [Recursive Fibonacci](./exercise-fibonacci.md)
+  - [Recursive Fibonacci Solution](./solution-fibonacci.md)
+
 # Regular Expressions, Regexes
   - [Regexes part 1](./exercise-regexes-part-1.md)
   - [Match numbers with regex](./exercise-match-numbers-with-regex.md)
